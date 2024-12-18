@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost"; 
 $username = "akwesi.duodu";       
-$password = "admin";            
+$password = "";            
 $dbname = "webtech_fall2024_akwesi_duodu"; 
 
 // Create MySQLi connection
